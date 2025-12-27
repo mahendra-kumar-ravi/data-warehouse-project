@@ -109,4 +109,9 @@ Hi there! I'm **Mahendra Kumar Ravi**. I’m a M.Tech Data Engineering student.
 
 Let's stay in touch! Feel free to connect with me on the following platforms:
 
-[![LinkedIn](https://www.linkedin.com/in/mahendra-kumar-ravi-055b3121b/)
+<p align="center">
+  <a href="https://www.linkedin.com/in/mahendra-kumar-ravi-055b3121b/">
+    <img width="512" height="512" alt="LinkedIn" src="https://github.com/user-attachments/assets/faacf323-2305-4ea0-b089-f6c46fa8cd78" />
+  </a>
+</p>
+
