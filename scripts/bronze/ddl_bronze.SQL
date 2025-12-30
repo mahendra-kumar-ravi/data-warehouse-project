@@ -10,7 +10,6 @@ Script Purpose:
 */
 
 
-
 -- File path 
 -- /var/opt/mssql/dwh/raw/source_crm/"*.csv"
 -- /var/opt/mssql/dwh/raw/source_erp/"*.csv"
