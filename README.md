@@ -85,8 +85,6 @@ data-warehouse-project
 │   ├── bronze/
 │   ├── silver/
 │   ├── gold/
-│   ├── procedures/
-│   └── analytics/
 │
 ├── tests/
 │
