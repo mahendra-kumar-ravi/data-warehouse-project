@@ -344,11 +344,19 @@ Data Engineer | M.Tech Data Engineering
 - Data Modeling
 - Data Analytics
 
-GitHub: https://github.com/mahendra-kumar-ravi
-
-LinkedIn: https://www.linkedin.com/in/mahendra-kumar-ravi-055b3121b/
-
-LeetCode: https://leetcode.com/u/mahi_leet/
+<p align="left">
+  <a href="https://github.com/mahendra-kumar-ravi">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/mahendra-kumar-ravi-055b3121b/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
+  </a>
+  &nbsp;
+  <a href="https://leetcode.com/u/mahi_leet/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40" />
+  </a>
+</p>
 
 ---
 
