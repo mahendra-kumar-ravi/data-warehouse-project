@@ -1,4 +1,4 @@
-# 🚀 Enterprise Data Warehouse Project
+# 🚀 Enterprise Data Warehouse Project  ![Data Warehouse](https://datawarehouse-etl-project.netlify.app/)
 
 > End-to-End SQL Server Data Warehouse using Medallion Architecture (Bronze → Silver → Gold) to transform raw CRM and ERP data into analytics-ready business insights.
 
