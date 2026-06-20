@@ -2,8 +2,9 @@
 
 > End-to-End SQL Server Data Warehouse using Medallion Architecture (Bronze → Silver → Gold) to transform raw CRM and ERP data into analytics-ready business insights.
 
+
+[![Live Documentation](https://img.shields.io/badge/🌐-Live%20Documentation-blue?style=for-the-badge)](https://datawarehouse-etl-project.netlify.app/)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![Data Warehouse](https://datawarehouse-etl-project.netlify.app/)
 ![Data Warehouse](https://img.shields.io/badge/Data%20Warehouse-005571?style=for-the-badge)
 ![ETL](https://img.shields.io/badge/ETL-Pipeline-success?style=for-the-badge)
 ![Star Schema](https://img.shields.io/badge/Star%20Schema-Dimensional%20Modeling-blue?style=for-the-badge)
